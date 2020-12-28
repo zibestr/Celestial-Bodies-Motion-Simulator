@@ -1,4 +1,4 @@
-1.9448e15, 0, 0, 0, 0, 0, 2.187317e30, Alpha Centauri A, gold, unvisible
-1.9413592e15, 0, 0, 0, 8564.49623464, 0, 1.8035423e30, Alpha Centauri B, orange, unvisible
-0, 0, 0, 0, 774.565195332, 0, 2.4458181e29, Proxima Centauri, crimson, visible
-0, 748e7, 0, 48630.1596767, 0, 0, 8.958e24, Proxima Centauri b, slategray, visible
+1.9448e15, 0, 0, 0, 0, 0, 2.187317e30, 851120e3, Alpha Centauri A, gold, star, unvisible
+1.9413592e15, 0, 0, 0, 8564.49623464, 0, 1.8035423e30, 600790e3, Alpha Centauri B, orange, star, unvisible
+1, 1, 1, 0, 774.565195332, 0, 2.4458181e29, 107280e3, Proxima Centauri, crimson, star, visible
+1, 748e7, 1, 48630.1596767, 0, 0, 8.958e24, 8282.3e3, Proxima Centauri b, slategray, planet, visible
